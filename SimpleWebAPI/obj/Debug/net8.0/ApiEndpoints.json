@@ -1,0 +1,59 @@
+[
+  {
+    "ContainingType": "SimpleWebAPI.Controllers.StatusController",
+    "Method": "GetPersonByName",
+    "RelativePath": "Status/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleWebAPI.Controllers.StatusController",
+    "Method": "AddPerson",
+    "RelativePath": "Status/{name}/{age}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleWebAPI.Controllers.StatusController",
+    "Method": "GetPersons",
+    "RelativePath": "Status/persons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SimpleWebAPI.Controllers.StatusController",
+    "Method": "GetStatus",
+    "RelativePath": "Status/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

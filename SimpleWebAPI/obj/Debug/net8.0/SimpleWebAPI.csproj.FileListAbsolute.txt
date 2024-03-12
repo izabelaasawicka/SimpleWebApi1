@@ -1,0 +1,56 @@
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.AssemblyInfoInputs.cache
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.AssemblyInfo.cs
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.csproj.CoreCompileInputs.cache
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\appsettings.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\SimpleWebAPI.exe
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\SimpleWebAPI.deps.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\SimpleWebAPI.runtimeconfig.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\SimpleWebAPI.dll
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\SimpleWebAPI.pdb
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets\msbuild.SimpleWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleWebAPI.props
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleWebAPI.props
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleWebAPI.props
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\scopedcss\bundle\SimpleWebAPI.styles.css
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.dll
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\refint\SimpleWebAPI.dll
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.pdb
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.genruntimeconfig.cache
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\ref\SimpleWebAPI.dll
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\bin\Debug\net8.0\Npgsql.dll
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWebAPI.csproj.AssemblyReference.cache
+C:\projects\pluralsight\Building a Web App\m3\after\FreeBillingCopy\FreeBillingCopy.Web\obj\Debug\net8.0\SimpleWe.627D99DE.Up2Date
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\appsettings.json
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\SimpleWebAPI.exe
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\SimpleWebAPI.deps.json
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\SimpleWebAPI.runtimeconfig.json
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\SimpleWebAPI.dll
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\SimpleWebAPI.pdb
+C:\projects\WebApp\SimpleWebAPI\bin\Debug\net8.0\Npgsql.dll
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.csproj.AssemblyReference.cache
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.AssemblyInfoInputs.cache
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.AssemblyInfo.cs
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.csproj.CoreCompileInputs.cache
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.SimpleWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SimpleWebAPI.props
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SimpleWebAPI.props
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SimpleWebAPI.props
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\scopedcss\bundle\SimpleWebAPI.styles.css
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWe.627D99DE.Up2Date
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.dll
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\refint\SimpleWebAPI.dll
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.pdb
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\SimpleWebAPI.genruntimeconfig.cache
+C:\projects\WebApp\SimpleWebAPI\obj\Debug\net8.0\ref\SimpleWebAPI.dll

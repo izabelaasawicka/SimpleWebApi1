@@ -1,0 +1,24 @@
+services:
+    app:
+        build: .
+        ports:
+            - 8080:80
+        volumes:
+            - ./data:/volumes
+        networks:
+            - backend
+        depends_on:
+            - db
+    db:
+        image: postgres
+        ports:  
+            - 5432:5432
+        environment:
+            POSTGRES_USER: myUser
+            POSTGRES_PASSWORD: myPassword
+            POSTGRES_DB: myDatabase
+        networks:
+            - backend
+networks:
+    backend:
+        driver: bridge
