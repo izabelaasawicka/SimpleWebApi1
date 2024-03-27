@@ -12,6 +12,8 @@ namespace SimpleWebAPI.Controllers
         [HttpGet("status")]
         public IActionResult GetStatus()
         {
+            // przenieś logikę bazodanową do repo
+
             bool isUp = CheckDatabaseStatus();
             return Ok(new { message = "database-status", value = isUp });
         }
@@ -44,8 +46,8 @@ namespace SimpleWebAPI.Controllers
         [HttpGet("persons")]
         public IActionResult GetPersons()
         {
-            string query = $"SELECT name, age FROM person";
-            var result = ExecuteQuery(query);
+            string query = $"SELECT name, age FROM person"; // repo
+            var result = ExecuteQuery(query); //services > metoda która to wywołuje
 
             if (result != null && result.Count > 0)
             {
@@ -111,7 +113,7 @@ namespace SimpleWebAPI.Controllers
         {
             string query = $"INSERT INTO person (name, age) VALUES ('{name}', {age})";
             ExecuteNonQuery(query);
-            return Ok("Success!");
+            return Ok("Success!"); // zwróć id
         }
 
         private void ExecuteNonQuery(string query)

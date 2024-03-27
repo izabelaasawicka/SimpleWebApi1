@@ -1,16 +1,21 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.AspNetCore.Mvc;
-using Npgsql;
 
 namespace SimpleWebAPI
 {
     public class Startup
     {
+        private readonly IConfiguration configuration;
+
+        public Startup()
+        {
+            var builder = new ConfigurationBuilder()
+                .AddJsonFile("appsettings.json", true, true);
+
+            builder.AddEnvironmentVariables();
+            configuration = builder.Build();
+
+        }
+
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
@@ -46,5 +51,5 @@ namespace SimpleWebAPI
 
     }
 
-
+    // person > add id (auto gen?)
 }

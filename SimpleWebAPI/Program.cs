@@ -23,7 +23,7 @@ namespace SimpleWebAPI
         public static void InitDb()
         {
             // Connection string for PostgreSQL database
-            string connString = "Host=localhost;Username=myUser;Password=myPassword;Database=myDatabase";
+            string connString = "Host=db;Username=myUser;Password=myPassword;Database=myDatabase";
 
             using (NpgsqlConnection conn = new NpgsqlConnection(connString))
             {
